@@ -1,6 +1,3 @@
-### Hi there 👋
-### 🔭 I’m currently working on NEEP
-### Busy！Busy！😑
 <!--
 **findyy99/findyy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there, I'm Findyy  👋
+#### I am realy new to Github! 😉
+## I'm not a good guy!
+- 🔭 I’m currently working on a NEEP!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals: to be admitted by ZZU
+- ⚡ Fun fact: I love to pick fish!
+
+
+<img align="left" alt="Findyy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=findyy&show_icons=true&hide_border=true" />
+
