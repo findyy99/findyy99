@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Findyy  👋
 #### I am realy new to Github! 😉
 ## I'm not a good guy!
-- 🔭 I’m currently working on a NEEP!
+- 🔭 I’m currently working on lots of things. 😢
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: to be admitted by ZZU
+- 🥅 2021 Goals: to be a good learner. 😂
 - ⚡ Fun fact: I love to pick 🐠.
 
