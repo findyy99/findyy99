@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 ## I'm not a good guy!
 - 🔭 I’m currently working on lots of things. 😢
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: to be a good learner. 😂
-- ⚡ Fun fact: I love to pick 🐠.
+- 🥅 2023 Goals: to be a good learner. 😂
 
