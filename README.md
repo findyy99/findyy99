@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Findyy  👋
 #### I am realy new to Github! 😉
-## I'm not a good guy!
 - 🔭 I’m currently working on lots of things. 😢
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: to be a good learner. 😂
