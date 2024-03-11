@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 #### I am realy new to Github! 😉
 - 🔭 I’m currently working on lots of things. 😢
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: to be a good learner. 😂
+- 🥅 2024 Goals: to be a good learner. 😂
 
